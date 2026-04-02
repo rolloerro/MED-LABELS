@@ -5,7 +5,7 @@
 ## Типы
 - lab
 - tube
-- bracelet
+- bracelet 
 - drug
 
 ## Endpoint
