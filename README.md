@@ -6,7 +6,7 @@
 - lab
 - tube
 - bracelet 
-- drug
+- drug 
 
 ## Endpoint
 POST /label
